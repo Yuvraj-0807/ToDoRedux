@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+    https://github.com/Yuvraj-0807/ToDoRedux.git
     ```
 
 2.  Install dependencies:
